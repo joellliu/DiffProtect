@@ -1,7 +1,7 @@
 # DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection
 Welcome to the official repository for the method presented in [DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection](https://arxiv.org/abs/2305.13625) 
 by [Jiang Liu*](https://joellliu.github.io/), [Chun Pong Lau*](https://samuel930930.github.io/), and [Rama Chellappa](https://engineering.jhu.edu/ece/faculty/rama-chellappa/).
-![Pipeline Image](pipeline.jpg)
+![Pipeline Image](pipeline.png)
 ## Updates
 **Aug 1<sup>th</sup>, 2023** Preview code release. 
 
