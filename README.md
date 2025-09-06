@@ -13,7 +13,8 @@ pip install -r requirements.txt
 ### Prepare model checkpoints
 1. Download [DiffAE](https://github.com/phizaz/diffae/tree/master) checkpoint [ffhq256_autoenc](https://vistec-my.sharepoint.com/:f:/g/personal/nattanatc_pro_vistec_ac_th/Ev2D_RNV2llIvm2yXyKgUxAB6w8ffg0C9NWSOtFqPMYQuw?e=f2kWUa) to `./checkpoints`
 2. Download the weights for victim models from [here](https://drive.google.com/file/d/19_Y0jR789BGciogjjoGtWNEv-5QBiCB7/view?usp=sharing) and extract to `./assets`
-
+### Data
+The images we used for our experiments can be found here: [CelebA](https://drive.google.com/file/d/1DLy-V1YpljoZgi-PC4VZPbb8QQ5DDuyE/view) and [FFHQ](https://drive.google.com/file/d/1hEgxUukYO8kTYbvT0cwZodvvf5Gwxc6W/view).
 ## Run the code
 ```shell
 python demo.py
